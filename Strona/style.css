@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+ 
+ th, td{
+    height: 40px;
+    border-bottom: 1px solid #ddd;
+  }
+  table {
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  section{
+    width: 900px;
+    margin: 0 auto;
+  }
+  header{
+    text-align: center;
+  }
+  p {
+    line-height: 1.5rem;
+  }
+  img {
+    width: 900px;
+  }
