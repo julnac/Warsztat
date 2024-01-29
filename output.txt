@@ -1,0 +1,4 @@
+Dokumenty
+Kody
+data.csv
+output.txt
